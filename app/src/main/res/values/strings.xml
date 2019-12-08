@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewFlipper</string>
+    <string name="state">select state</string>
+    <string-array name="state">
+        <item></item>
+        <item>Gujarat</item>
+        <item>Maharashtra</item>
+        <item>Rajasthan</item>
+        <item>Goa</item>
+        <item>Pune</item>
+    </string-array>
+</resources>
